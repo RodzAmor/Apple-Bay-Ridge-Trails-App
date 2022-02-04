@@ -1,0 +1,490 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4328B9E625B2C6B7001D0E11 /* Hollow Tree.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4328B9E525B2C6B5001D0E11 /* Hollow Tree.jpeg */; };
+		432F263025BE46A400FCBDAC /* br_map_revised.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 432F262F25BE46A400FCBDAC /* br_map_revised.jpg */; };
+		432F263325BE479600FCBDAC /* Farmhouse Tree.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 432F263225BE479600FCBDAC /* Farmhouse Tree.JPG */; };
+		432F263725BE47CD00FCBDAC /* steamtrainarea.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 432F263625BE47CD00FCBDAC /* steamtrainarea.JPG */; };
+		432F263B25BE489100FCBDAC /* IMG_1758.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 432F263A25BE489100FCBDAC /* IMG_1758.JPG */; };
+		432F263E25BE507C00FCBDAC /* Fisherman Trail 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 432F263D25BE507C00FCBDAC /* Fisherman Trail 1.jpg */; };
+		432F264125BE508300FCBDAC /* Fisherman Trail 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 432F264025BE508300FCBDAC /* Fisherman Trail 2.jpg */; };
+		432F264425BE554E00FCBDAC /* Little Cut Trail 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 432F264325BE554E00FCBDAC /* Little Cut Trail 1.jpg */; };
+		432F264725BE556700FCBDAC /* Little Cut Trail 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 432F264625BE556600FCBDAC /* Little Cut Trail 2.jpg */; };
+		432F264A25BE560000FCBDAC /* Little Cut Trail 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 432F264925BE55FF00FCBDAC /* Little Cut Trail 3.jpg */; };
+		432F264D25BE56DE00FCBDAC /* IMG_1734.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 432F264C25BE56DE00FCBDAC /* IMG_1734.JPG */; };
+		432F265025BE56EF00FCBDAC /* IMG_1726.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 432F264F25BE56EF00FCBDAC /* IMG_1726.JPG */; };
+		432F265325BE5A8200FCBDAC /* Historic Home 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 432F265225BE5A8200FCBDAC /* Historic Home 1.png */; };
+		432F265625BE5A9A00FCBDAC /* Historic Home 2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 432F265525BE5A9A00FCBDAC /* Historic Home 2.jpg */; };
+		432F265925BE5AC400FCBDAC /* Grand Hotel 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 432F265825BE5AC400FCBDAC /* Grand Hotel 1.png */; };
+		432F265C25BE5B2E00FCBDAC /* Grand Hotel 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 432F265B25BE5B2E00FCBDAC /* Grand Hotel 2.png */; };
+		4337A27D25B74F6600733B70 /* IMG_1770.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4337A27C25B74F6600733B70 /* IMG_1770.JPG */; };
+		4337A28025B7503C00733B70 /* Pond View-1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4337A27F25B7503B00733B70 /* Pond View-1.jpeg */; };
+		4337A28325B7511300733B70 /* Orange Hunting Marks.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4337A28225B7511200733B70 /* Orange Hunting Marks.jpeg */; };
+		4337A28925BA44E900733B70 /* IMG_1772.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4337A28825BA44E900733B70 /* IMG_1772.JPG */; };
+		4337A28C25BA457400733B70 /* IMG_0941.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 4337A28B25BA457300733B70 /* IMG_0941.JPG */; };
+		43605A1125A4E158007FC27E /* TrailInformationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43605A1025A4E158007FC27E /* TrailInformationViewController.swift */; };
+		437BBF1825CF671E00FD9CDB /* IMG_1765.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 437BBF1725CF671E00FD9CDB /* IMG_1765.JPG */; };
+		437BBF1F25D07E9500FD9CDB /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 437BBF1E25D07E9500FD9CDB /* DetailsViewController.swift */; };
+		437BBF2725D08ECC00FD9CDB /* icons8-note-26.png in Resources */ = {isa = PBXBuildFile; fileRef = 437BBF2625D08ECC00FD9CDB /* icons8-note-26.png */; };
+		439EC56225A296AC0087296C /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 439EC56125A296AC0087296C /* MapViewController.swift */; };
+		43A88C7F2586DD660087D288 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A88C7E2586DD660087D288 /* AppDelegate.swift */; };
+		43A88C812586DD660087D288 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A88C802586DD660087D288 /* SceneDelegate.swift */; };
+		43A88C832586DD660087D288 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A88C822586DD660087D288 /* ViewController.swift */; };
+		43A88C862586DD660087D288 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43A88C842586DD660087D288 /* Main.storyboard */; };
+		43A88C882586DD6C0087D288 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43A88C872586DD6C0087D288 /* Assets.xcassets */; };
+		43A88C8B2586DD6C0087D288 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 43A88C892586DD6C0087D288 /* LaunchScreen.storyboard */; };
+		43B73386258C1610008CC434 /* Lato-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 43B7337B258C1610008CC434 /* Lato-Italic.ttf */; };
+		43B73387258C1610008CC434 /* Lato-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 43B7337C258C1610008CC434 /* Lato-Bold.ttf */; };
+		43B73389258C1610008CC434 /* Lato-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 43B7337E258C1610008CC434 /* Lato-BoldItalic.ttf */; };
+		43B7338B258C1610008CC434 /* Lato-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 43B73380258C1610008CC434 /* Lato-Black.ttf */; };
+		43B7338D258C1610008CC434 /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 43B73382258C1610008CC434 /* Lato-Regular.ttf */; };
+		43B7339F258C203B008CC434 /* baylogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 43B7339C258C2039008CC434 /* baylogo.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4328B9E525B2C6B5001D0E11 /* Hollow Tree.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Hollow Tree.jpeg"; path = "Pictures/Hollow Tree.jpeg"; sourceTree = "<group>"; };
+		432F262F25BE46A400FCBDAC /* br_map_revised.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = br_map_revised.jpg; path = Pictures/br_map_revised.jpg; sourceTree = "<group>"; };
+		432F263225BE479600FCBDAC /* Farmhouse Tree.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Farmhouse Tree.JPG"; path = "Pictures/Farmhouse Tree.JPG"; sourceTree = "<group>"; };
+		432F263625BE47CD00FCBDAC /* steamtrainarea.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = steamtrainarea.JPG; path = Pictures/steamtrainarea.JPG; sourceTree = "<group>"; };
+		432F263A25BE489100FCBDAC /* IMG_1758.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_1758.JPG; path = Pictures/IMG_1758.JPG; sourceTree = "<group>"; };
+		432F263D25BE507C00FCBDAC /* Fisherman Trail 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Fisherman Trail 1.jpg"; path = "Pictures/Fisherman Trail 1.jpg"; sourceTree = "<group>"; };
+		432F264025BE508300FCBDAC /* Fisherman Trail 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Fisherman Trail 2.jpg"; path = "Pictures/Fisherman Trail 2.jpg"; sourceTree = "<group>"; };
+		432F264325BE554E00FCBDAC /* Little Cut Trail 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Little Cut Trail 1.jpg"; path = "Pictures/Little Cut Trail 1.jpg"; sourceTree = "<group>"; };
+		432F264625BE556600FCBDAC /* Little Cut Trail 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Little Cut Trail 2.jpg"; path = "Pictures/Little Cut Trail 2.jpg"; sourceTree = "<group>"; };
+		432F264925BE55FF00FCBDAC /* Little Cut Trail 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Little Cut Trail 3.jpg"; path = "Pictures/Little Cut Trail 3.jpg"; sourceTree = "<group>"; };
+		432F264C25BE56DE00FCBDAC /* IMG_1734.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_1734.JPG; path = Pictures/IMG_1734.JPG; sourceTree = "<group>"; };
+		432F264F25BE56EF00FCBDAC /* IMG_1726.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_1726.JPG; path = Pictures/IMG_1726.JPG; sourceTree = "<group>"; };
+		432F265225BE5A8200FCBDAC /* Historic Home 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Historic Home 1.png"; path = "Pictures/Historic Home 1.png"; sourceTree = "<group>"; };
+		432F265525BE5A9A00FCBDAC /* Historic Home 2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Historic Home 2.jpg"; path = "Pictures/Historic Home 2.jpg"; sourceTree = "<group>"; };
+		432F265825BE5AC400FCBDAC /* Grand Hotel 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Grand Hotel 1.png"; path = "Pictures/Grand Hotel 1.png"; sourceTree = "<group>"; };
+		432F265B25BE5B2E00FCBDAC /* Grand Hotel 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Grand Hotel 2.png"; path = "Pictures/Grand Hotel 2.png"; sourceTree = "<group>"; };
+		4337A27C25B74F6600733B70 /* IMG_1770.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_1770.JPG; path = Pictures/IMG_1770.JPG; sourceTree = "<group>"; };
+		4337A27F25B7503B00733B70 /* Pond View-1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Pond View-1.jpeg"; path = "Pictures/Pond View-1.jpeg"; sourceTree = "<group>"; };
+		4337A28225B7511200733B70 /* Orange Hunting Marks.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Orange Hunting Marks.jpeg"; path = "Pictures/Orange Hunting Marks.jpeg"; sourceTree = "<group>"; };
+		4337A28825BA44E900733B70 /* IMG_1772.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_1772.JPG; path = Pictures/IMG_1772.JPG; sourceTree = "<group>"; };
+		4337A28B25BA457300733B70 /* IMG_0941.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_0941.JPG; path = Pictures/IMG_0941.JPG; sourceTree = "<group>"; };
+		433BD1A525C3192500AECFFD /* .. */ = {isa = PBXFileReference; lastKnownFileType = folder; path = ..; sourceTree = "<group>"; };
+		43605A1025A4E158007FC27E /* TrailInformationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailInformationViewController.swift; sourceTree = "<group>"; };
+		437BBF1725CF671E00FD9CDB /* IMG_1765.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_1765.JPG; path = Pictures/IMG_1765.JPG; sourceTree = "<group>"; };
+		437BBF1E25D07E9500FD9CDB /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		437BBF2125D08E0A00FD9CDB /* icons8-note-26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-note-26.png"; path = "Pictures/icons8-note-26.png"; sourceTree = "<group>"; };
+		437BBF2625D08ECC00FD9CDB /* icons8-note-26.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-note-26.png"; path = "Pictures/icons8-note-26.png"; sourceTree = "<group>"; };
+		439EC56125A296AC0087296C /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		43A88C7B2586DD660087D288 /* Bay Ridge Trail.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bay Ridge Trail.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		43A88C7E2586DD660087D288 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		43A88C802586DD660087D288 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		43A88C822586DD660087D288 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		43A88C852586DD660087D288 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		43A88C872586DD6C0087D288 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		43A88C8A2586DD6C0087D288 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		43A88C8C2586DD6C0087D288 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43B7337B258C1610008CC434 /* Lato-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-Italic.ttf"; path = "../../../Downloads/Lato/Lato-Italic.ttf"; sourceTree = "<group>"; };
+		43B7337C258C1610008CC434 /* Lato-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-Bold.ttf"; path = "../../../Downloads/Lato/Lato-Bold.ttf"; sourceTree = "<group>"; };
+		43B7337E258C1610008CC434 /* Lato-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-BoldItalic.ttf"; path = "../../../Downloads/Lato/Lato-BoldItalic.ttf"; sourceTree = "<group>"; };
+		43B73380258C1610008CC434 /* Lato-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-Black.ttf"; path = "../../../Downloads/Lato/Lato-Black.ttf"; sourceTree = "<group>"; };
+		43B73382258C1610008CC434 /* Lato-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Lato-Regular.ttf"; path = "../../../Downloads/Lato/Lato-Regular.ttf"; sourceTree = "<group>"; };
+		43B7339C258C2039008CC434 /* baylogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = baylogo.png; path = Pictures/baylogo.png; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		43A88C782586DD650087D288 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		43A88C722586DD650087D288 = {
+			isa = PBXGroup;
+			children = (
+				43B73377258C1602008CC434 /* Fonts */,
+				43A88C7D2586DD660087D288 /* Bay Ridge Trail */,
+				43A88C7C2586DD660087D288 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		43A88C7C2586DD660087D288 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				43A88C7B2586DD660087D288 /* Bay Ridge Trail.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		43A88C7D2586DD660087D288 /* Bay Ridge Trail */ = {
+			isa = PBXGroup;
+			children = (
+				433BD1A525C3192500AECFFD /* .. */,
+				432F265B25BE5B2E00FCBDAC /* Grand Hotel 2.png */,
+				437BBF1725CF671E00FD9CDB /* IMG_1765.JPG */,
+				432F265825BE5AC400FCBDAC /* Grand Hotel 1.png */,
+				437BBF2125D08E0A00FD9CDB /* icons8-note-26.png */,
+				432F265525BE5A9A00FCBDAC /* Historic Home 2.jpg */,
+				432F265225BE5A8200FCBDAC /* Historic Home 1.png */,
+				432F264F25BE56EF00FCBDAC /* IMG_1726.JPG */,
+				437BBF2625D08ECC00FD9CDB /* icons8-note-26.png */,
+				432F264C25BE56DE00FCBDAC /* IMG_1734.JPG */,
+				432F264925BE55FF00FCBDAC /* Little Cut Trail 3.jpg */,
+				432F264625BE556600FCBDAC /* Little Cut Trail 2.jpg */,
+				432F264325BE554E00FCBDAC /* Little Cut Trail 1.jpg */,
+				432F264025BE508300FCBDAC /* Fisherman Trail 2.jpg */,
+				432F263D25BE507C00FCBDAC /* Fisherman Trail 1.jpg */,
+				432F263A25BE489100FCBDAC /* IMG_1758.JPG */,
+				432F263625BE47CD00FCBDAC /* steamtrainarea.JPG */,
+				4337A28B25BA457300733B70 /* IMG_0941.JPG */,
+				4337A28825BA44E900733B70 /* IMG_1772.JPG */,
+				432F263225BE479600FCBDAC /* Farmhouse Tree.JPG */,
+				432F262F25BE46A400FCBDAC /* br_map_revised.jpg */,
+				4337A28225B7511200733B70 /* Orange Hunting Marks.jpeg */,
+				4337A27F25B7503B00733B70 /* Pond View-1.jpeg */,
+				4337A27C25B74F6600733B70 /* IMG_1770.JPG */,
+				43B7339C258C2039008CC434 /* baylogo.png */,
+				4328B9E525B2C6B5001D0E11 /* Hollow Tree.jpeg */,
+				43A88C7E2586DD660087D288 /* AppDelegate.swift */,
+				43A88C802586DD660087D288 /* SceneDelegate.swift */,
+				43A88C822586DD660087D288 /* ViewController.swift */,
+				43605A1025A4E158007FC27E /* TrailInformationViewController.swift */,
+				439EC56125A296AC0087296C /* MapViewController.swift */,
+				43A88C842586DD660087D288 /* Main.storyboard */,
+				437BBF1E25D07E9500FD9CDB /* DetailsViewController.swift */,
+				43A88C892586DD6C0087D288 /* LaunchScreen.storyboard */,
+				43A88C872586DD6C0087D288 /* Assets.xcassets */,
+				43A88C8C2586DD6C0087D288 /* Info.plist */,
+			);
+			path = "Bay Ridge Trail";
+			sourceTree = "<group>";
+		};
+		43B73377258C1602008CC434 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				43B73380258C1610008CC434 /* Lato-Black.ttf */,
+				43B7337C258C1610008CC434 /* Lato-Bold.ttf */,
+				43B7337E258C1610008CC434 /* Lato-BoldItalic.ttf */,
+				43B7337B258C1610008CC434 /* Lato-Italic.ttf */,
+				43B73382258C1610008CC434 /* Lato-Regular.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		43A88C7A2586DD650087D288 /* Bay Ridge Trail */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 43A88C8F2586DD6D0087D288 /* Build configuration list for PBXNativeTarget "Bay Ridge Trail" */;
+			buildPhases = (
+				43A88C772586DD650087D288 /* Sources */,
+				43A88C782586DD650087D288 /* Frameworks */,
+				43A88C792586DD650087D288 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Bay Ridge Trail";
+			productName = "Bay Ridge Trail";
+			productReference = 43A88C7B2586DD660087D288 /* Bay Ridge Trail.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		43A88C732586DD650087D288 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1210;
+				LastUpgradeCheck = 1210;
+				TargetAttributes = {
+					43A88C7A2586DD650087D288 = {
+						CreatedOnToolsVersion = 12.1;
+					};
+				};
+			};
+			buildConfigurationList = 43A88C762586DD650087D288 /* Build configuration list for PBXProject "Bay Ridge Trails" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 43A88C722586DD650087D288;
+			productRefGroup = 43A88C7C2586DD660087D288 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				43A88C7A2586DD650087D288 /* Bay Ridge Trail */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		43A88C792586DD650087D288 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				432F263325BE479600FCBDAC /* Farmhouse Tree.JPG in Resources */,
+				43B7339F258C203B008CC434 /* baylogo.png in Resources */,
+				432F265C25BE5B2E00FCBDAC /* Grand Hotel 2.png in Resources */,
+				4328B9E625B2C6B7001D0E11 /* Hollow Tree.jpeg in Resources */,
+				43B7338B258C1610008CC434 /* Lato-Black.ttf in Resources */,
+				43B73386258C1610008CC434 /* Lato-Italic.ttf in Resources */,
+				432F265925BE5AC400FCBDAC /* Grand Hotel 1.png in Resources */,
+				432F263725BE47CD00FCBDAC /* steamtrainarea.JPG in Resources */,
+				432F264A25BE560000FCBDAC /* Little Cut Trail 3.jpg in Resources */,
+				43B73389258C1610008CC434 /* Lato-BoldItalic.ttf in Resources */,
+				432F264D25BE56DE00FCBDAC /* IMG_1734.JPG in Resources */,
+				4337A28325B7511300733B70 /* Orange Hunting Marks.jpeg in Resources */,
+				437BBF1825CF671E00FD9CDB /* IMG_1765.JPG in Resources */,
+				432F264725BE556700FCBDAC /* Little Cut Trail 2.jpg in Resources */,
+				432F263025BE46A400FCBDAC /* br_map_revised.jpg in Resources */,
+				432F263B25BE489100FCBDAC /* IMG_1758.JPG in Resources */,
+				432F263E25BE507C00FCBDAC /* Fisherman Trail 1.jpg in Resources */,
+				437BBF2725D08ECC00FD9CDB /* icons8-note-26.png in Resources */,
+				4337A28925BA44E900733B70 /* IMG_1772.JPG in Resources */,
+				432F265325BE5A8200FCBDAC /* Historic Home 1.png in Resources */,
+				4337A28C25BA457400733B70 /* IMG_0941.JPG in Resources */,
+				4337A27D25B74F6600733B70 /* IMG_1770.JPG in Resources */,
+				432F265625BE5A9A00FCBDAC /* Historic Home 2.jpg in Resources */,
+				432F265025BE56EF00FCBDAC /* IMG_1726.JPG in Resources */,
+				432F264425BE554E00FCBDAC /* Little Cut Trail 1.jpg in Resources */,
+				43A88C8B2586DD6C0087D288 /* LaunchScreen.storyboard in Resources */,
+				43B73387258C1610008CC434 /* Lato-Bold.ttf in Resources */,
+				432F264125BE508300FCBDAC /* Fisherman Trail 2.jpg in Resources */,
+				43A88C882586DD6C0087D288 /* Assets.xcassets in Resources */,
+				43B7338D258C1610008CC434 /* Lato-Regular.ttf in Resources */,
+				4337A28025B7503C00733B70 /* Pond View-1.jpeg in Resources */,
+				43A88C862586DD660087D288 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		43A88C772586DD650087D288 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				43A88C832586DD660087D288 /* ViewController.swift in Sources */,
+				43A88C7F2586DD660087D288 /* AppDelegate.swift in Sources */,
+				43A88C812586DD660087D288 /* SceneDelegate.swift in Sources */,
+				43605A1125A4E158007FC27E /* TrailInformationViewController.swift in Sources */,
+				439EC56225A296AC0087296C /* MapViewController.swift in Sources */,
+				437BBF1F25D07E9500FD9CDB /* DetailsViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		43A88C842586DD660087D288 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				43A88C852586DD660087D288 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		43A88C892586DD6C0087D288 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				43A88C8A2586DD6C0087D288 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		43A88C8D2586DD6C0087D288 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		43A88C8E2586DD6C0087D288 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		43A88C902586DD6D0087D288 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 7;
+				DEVELOPMENT_TEAM = T7Z7XSQ4FH;
+				INFOPLIST_FILE = "Bay Ridge Trail/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.1.1;
+				PRODUCT_BUNDLE_IDENTIFIER = "Bay-Ridge-Civic-Association.Bay-Ridge-Trails";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		43A88C912586DD6D0087D288 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 7;
+				DEVELOPMENT_TEAM = T7Z7XSQ4FH;
+				INFOPLIST_FILE = "Bay Ridge Trail/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.1.1;
+				PRODUCT_BUNDLE_IDENTIFIER = "Bay-Ridge-Civic-Association.Bay-Ridge-Trails";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		43A88C762586DD650087D288 /* Build configuration list for PBXProject "Bay Ridge Trails" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				43A88C8D2586DD6C0087D288 /* Debug */,
+				43A88C8E2586DD6C0087D288 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		43A88C8F2586DD6D0087D288 /* Build configuration list for PBXNativeTarget "Bay Ridge Trail" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				43A88C902586DD6D0087D288 /* Debug */,
+				43A88C912586DD6D0087D288 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 43A88C732586DD650087D288 /* Project object */;
+}
